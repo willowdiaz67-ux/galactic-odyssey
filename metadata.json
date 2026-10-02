@@ -1,0 +1,8 @@
+{
+  "name": "Astraea: Galactic Odyssey",
+  "description": "Космическая стратегия и путешествия: исследуйте далёкие звёзды, развивайте колонии, торгуйте и участвуйте в тактических боях.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

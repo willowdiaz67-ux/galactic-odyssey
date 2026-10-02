@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Astraea: Galactic Odyssey",
+  "short_name": "Astraea",
+  "description": "Космическая стратегия и путешествия: исследуйте далёкие звёзды, развивайте колонии, торгуйте и участвуйте в тактических боях.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#06080F",
+  "theme_color": "#06080F",
+  "icons": [
+    {
+      "src": "/src/assets/images/flagship_astraea_1790243922711.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any"
+    },
+    {
+      "src": "/src/assets/images/flagship_astraea_1790243922711.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any"
+    }
+  ]
+}
